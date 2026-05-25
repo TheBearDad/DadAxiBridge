@@ -3,6 +3,35 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260524-213437-or13",
+      "title": "I Disco Inferno I, Swag Senpai",
+      "commanders": [
+        "I Disco Inferno I",
+        "Swag Senpai"
+      ],
+      "dateStart": "2026-05-25T01:34:37.000Z",
+      "dateEnd": "2026-05-25T02:09:00.000Z",
+      "dateLabel": "5/24/2026, 9:34:37 PM - 5/24/2026, 10:09:00 PM",
+      "url": "https://TheBearDad.github.io/DadAxiBridge/?report=20260524-213437-or13",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 37,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 10,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260506-212426-cowa",
       "title": "Swag Senpai",
       "commanders": [
