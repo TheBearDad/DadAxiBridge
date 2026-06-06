@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260605-225204-53e5",
+      "title": "Swag Senpai",
+      "commanders": [
+        "Swag Senpai"
+      ],
+      "dateStart": "2026-06-06T02:52:04.000Z",
+      "dateEnd": "2026-06-06T03:34:17.000Z",
+      "dateLabel": "6/5/2026, 10:52:04 PM - 6/5/2026, 11:34:17 PM",
+      "url": "https://TheBearDad.github.io/DadAxiBridge/?report=20260605-225204-53e5",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 33,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260603-215757-ay3x",
       "title": "Swag Senpai",
       "commanders": [
