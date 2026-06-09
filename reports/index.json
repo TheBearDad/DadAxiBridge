@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260608-214437-wpqb",
+      "title": "R A D E E",
+      "commanders": [
+        "R A D E E"
+      ],
+      "dateStart": "2026-06-09T01:44:37.000Z",
+      "dateEnd": "2026-06-09T02:13:07.000Z",
+      "dateLabel": "6/8/2026, 9:44:37 PM - 6/8/2026, 10:13:07 PM",
+      "url": "https://TheBearDad.github.io/DadAxiBridge/?report=20260608-214437-wpqb",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Obsidian Sanctum",
+            "value": 8,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260607-211932-q5nl",
       "title": "Swag Senpai",
       "commanders": [
